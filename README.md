@@ -1,9 +1,16 @@
 # My work portfolio - Hernan Rosenblum
 
 ## About me
- My Name is Hernan and I am oe oe oe oe oe, oe oe oe.
+ My name is Hernan, I have a masters degree in Social Psychology from Ben Gurion University. <br>
+ I have a strong understanding of qunatitative research methods and a passion for structural problem solving.<br>
+ during my masters degree I've found myself more and more drawn into the field of data manipulation and analysis.<br<
+ In the past year I've been learning how to code in python from scratch, and how to implement my knowledge and experience in conducting researches in a automated, big-scaled enviroment.<br>
+If you have a project idea, a collaboration offer, or if you would like to comment on some of my work, you can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-rosenblum-719516163/) or [mail](hernan.rosenblum89@gmail.com).
  
-<img src="https://cdn.clipart.email/b31a8e4dce12c35ea192f8420687c3fc_python-logo-clipart-easy-pandas-python-logo-png-download-_1242-733.png" width="215" height="135">
+ 
+<img src="https://www.facebook.com/photo.php?fbid=10215468030868213&set=a.1531277636165&type=3&theater" width="215" height="135">
+
+#<img src="https://cdn.clipart.email/b31a8e4dce12c35ea192f8420687c3fc_python-logo-clipart-easy-pandas-python-logo-png-download-_1242-#733.png" width="215" height="135">
 
 ## Summary
 This is a reposotory that showcases some of the data projects that I've been working on in the past year.
