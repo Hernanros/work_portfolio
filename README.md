@@ -7,9 +7,6 @@
  In the past year, I've been learning how to code in python from scratch, and how to implement my knowledge and experience in conducting researches in an automated, big-scaled environment.<br>
 If you have a project idea, a collaboration offer, or if you would like to comment on some of my work, you can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-rosenblum-719516163/) or [mail](hernan.rosenblum89@gmail.com).
 
-<img src=" https://www.facebook.com/photo.php?fbid=10215468030868213&set=a.1531277636165&type=3&theater
-" width="215" height="135">
-
 ## Summary
 This is a repository that showcases some of the data projects that I've been working on in the past year.
 Since April 2019, when I first started to engage in machine learning and data science, I've participated in more than 20 different projects. some of them are copyright protected and could not be displayed for legal reasons.
