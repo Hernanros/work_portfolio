@@ -14,7 +14,7 @@ This is a repository that showcases some of the data projects that I've been wor
 Since April 2019, when I first started to engage in machine learning and data science, I've participated in more than 20 different projects. some of them are copyright protected and could not be displayed for legal reasons.
 I picked only a few projects to display in the repository since I feel that they cover a wide range of abilities and assignments I engaged in. 
 
-### [Super Resolution convolutional nets] (https://github.com/Hernanros/work_portfolio/tree/master/Super-resolution%20convolutional%20Net) 
+### [Super Resolution convolutional nets] (https://github.com/Hernanros/work_portfolio/tree/master/Superresolution%20convolutional%20Net) 
 - Image quality enhancement project that explores and combines different deep learning techniques. In this project, we ([Shaul Solomon](https://github.com/ShaulSolomon) and myself) deploy different convolutions, sampling, augmenting and image manipulating methods 
 
 ### [Word embeddings](https://github.com/Hernanros/work_portfolio/tree/master/Word_embeddings)
